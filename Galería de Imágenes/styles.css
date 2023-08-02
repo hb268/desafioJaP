@@ -18,3 +18,7 @@ body {
   justify-content: center; /* Centrar horizontalmente */
   align-items: center; /
 }
+
+p {
+    text-decoration: underline; /* Agrega subrayado a los párrafos */
+  }
